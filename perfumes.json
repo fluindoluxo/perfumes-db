@@ -8,8 +8,9 @@
       "marca": "Armani",
       "linha": "Emporio Armani",
       "genero": "Masculino",
-      "fixacao": "Parfum",
-      "origem": "Importado"
+      "concentracao": "Parfum",
+      "origem": "Importado",
+      "familia": ["Oriental", "Gourmand"]
     }
   },
   {
@@ -21,8 +22,9 @@
       "marca": "Armani",
       "linha": "Emporio Armani",
       "genero": "Masculino",
-      "fixacao": "Eau de Toilette",
-      "origem": "Importado"
+      "concentracao": "Eau de Toilette",
+      "origem": "Importado",
+      "familia": ["Oriental", "Aromático"]
     }
   },
   {
@@ -34,8 +36,9 @@
       "marca": "Armani",
       "linha": "Giorgio Armani",
       "genero": "Masculino",
-      "fixacao": "Eau de Toilette",
-      "origem": "Importado"
+      "concentracao": "Eau de Toilette",
+      "origem": "Importado",
+      "familia": ["Oriental", "Amadeirado"]
     }
   },
   {
@@ -47,8 +50,9 @@
       "marca": "Lacoste",
       "linha": "L.12.12",
       "genero": "Masculino",
-      "fixacao": "Eau de Parfum",
-      "origem": "Importado"
+      "concentracao": "Eau de Parfum",
+      "origem": "Importado",
+      "familia": ["Amadeirado", "Floral"]
     }
   },
   {
@@ -60,8 +64,9 @@
       "marca": "Lacoste",
       "linha": "L.12.12",
       "genero": "Masculino",
-      "fixacao": "Eau de Toilette",
-      "origem": "Importado"
+      "concentracao": "Eau de Toilette",
+      "origem": "Importado",
+      "familia": ["Cítrico", "Amadeirado"]
     }
   }
 ]
